@@ -1,0 +1,12 @@
+# Ignore all proprietary implementation folders on public showcase branch
+frontend/
+backend/
+.agents/
+skills-lock.json
+
+# Dependencies & Environments
+node_modules/
+.env*
+*.log
+.DS_Store
+Thumbs.db
